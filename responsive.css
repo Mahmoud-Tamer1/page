@@ -1,0 +1,38 @@
+
+@media (min-width: 576px) {
+    body{
+        display: flex;
+        flex-direction: column;
+        /* width: fit-content; */
+    }
+ }
+
+
+@media (min-width: 768px) {
+    body{
+        display: flex;
+        flex-direction: column;
+    }
+}
+@media (min-width: 800px) {
+    body{
+        display: flex;
+        flex-direction: column;
+
+    }
+}
+
+
+@media (min-width: 992px) {
+    body{
+        display: flex;
+        flex-direction: column;
+    
+    }
+}
+ @media (min-width: 1200px) {
+    body{
+        display: flex;
+        flex-direction: column;
+    }
+} 
